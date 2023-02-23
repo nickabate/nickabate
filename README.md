@@ -5,7 +5,7 @@ Here's a little bit about me...
 🔭 &nbsp; &nbsp;I’m currently looking for a remote employment opportunity.    
 🌱 &nbsp; &nbsp;I’m currently learning data structures & algorithms.    
 💬 &nbsp; &nbsp;Ask me about transitioning from accounting to software engineering.    
-📫 &nbsp; &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/nick-abate/)      
+📫 &nbsp; &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/nick-abate/).          
     
 Thanks for stopping by!
 
