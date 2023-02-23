@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Nick!
+
+Here's a little bit about me...
+
+🔭 I’m currently looking for a remote employment opportunity.
+🌱 I’m currently learning data structures & algorithms.
+💬 Ask me about transitioning from accounting to software engineering.
+
+Thanks for stopping by!
 
 <!--
 **nickabate/nickabate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
