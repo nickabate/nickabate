@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **data structures & algorithms**.
 
-- 👨‍💻 Check out my current portfolio at [www.nickabate.dev](www.nickabate.dev).
+- 👨‍💻 Check out my current portfolio at [www.nickabate.dev](http://www.nickabate.dev).
 
 - 💬 Ask me about **transitioning careers from accounting to software engineering**!
 
