@@ -1,4 +1,4 @@
-### [🔗 My portfolio!](http://www.nickabate.dev)
+### [🔗 Check out my portfolio!](http://www.nickabate.dev)
 
 <h1>Hi there 👋 I'm Nick Abate!</h1>
 <h3>I'm a self-taught developer turned bootcamp graduate and former Chartered Professional Accountant.</h3>
