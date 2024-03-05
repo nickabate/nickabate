@@ -6,7 +6,7 @@
 
 <p>Here's a little more about me...</p>
 
-- 🧱 I’m presently building things and working as a **Junior Developer** at **Lush**.
+- 🧱 I’m presently building things and working as a **Junior Backend Engineer** at **Lush**.
 
 - 🌱 I’m currently learning new skills and mastering **TypeScript**.
 
