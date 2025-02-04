@@ -1,7 +1,7 @@
-### [🌎 Explore My Portfolio & Blog](https://nickabate.dev/)
+### [🌎 Visit my portfolio & blog](https://nickabate.dev/)
 
-# Hi there 👋 I'm Nick Abate!
-I'm a software engineer passionate about building scalable, user-centric solutions. My journey from a self-taught developer to a bootcamp graduate—and my foundation as a former Chartered Professional Accountant—gives me a unique perspective on solving complex problems with precision and efficiency.
+# 👋 Hi, I'm Nick!
+I'm a Software Engineer passionate about building scalable, user-centric solutions. My journey from Chartered Professional Accountant to Software Engineer gives me a unique perspective on problem solving and crafting efficient data-driven applications.
 
 ## 🛠️ Tech I Use & Love
 <p>
@@ -12,18 +12,18 @@ I'm a software engineer passionate about building scalable, user-centric solutio
 
 ## 🚀 What I'm Up To
 
-- 🧱 Presently building scalable backend systems and optimizing API performance as a **Backend Engineer** at **LUSH**.
+- 🧱 Building scalable systems & optimizing API performance as a **Backend Engineer at LUSH**.
 
-- 👨‍💻 Discover more about my journey and view my blog at [www.nickabate.dev](https://nickabate.dev/).
+- 🌱 Deepening expertise in **TypeScript, system design and scalable architecture patterns**.
+
+- 👨‍💻 Sharing insights on **software engineering & career transitions** [www.nickabate.dev](https://nickabate.dev/).
   
-- 🌱 Continuously learning and mastering **TypeScript** and scalable architecture patterns.
-
-- 💬 Ask me about my path and transitioning careers from **accounting** to **software engineering**!
+- 💬 **Mentoring and speaking** to aspiring developers about breaking into tech.
 
 
 ## 📬 Connect With Me
 <p align="left">
-<a href="https://twitter.com/thatdevnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatdevnick" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/thatdevnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatdevnick" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/nick-abate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nick-abate/" height="30" width="40" /></a>
 </p>
 
