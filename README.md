@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about building scalable, user-centric solutio
 ## 🛠️ Tech I Use & Love
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,graphql,postgres,apollo,prisma,bash,docker,postman,redux,figma,notion,obsidian,vscode,md&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,js,tailwind,nodejs,express,graphql,postgres,apollo,prisma,bash,docker,postman,redux,figma,notion,obsidian,vscode,md&theme=dark&perline=8" />
   </a>
 </p>
 
