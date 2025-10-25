@@ -1,25 +1,32 @@
-### [🌎 visit my website](https://nickabate.dev/)
+### [🌎 Visit My Website](https://nickabate.dev/)
 
-# building systems that scale
-i'm a backend developer passionate about designing data-driven systems. leveraging the latest frameworks and cloud technologies enables me to build maintainable, scalable and reliable backend architectures.
+# Building Systems That Scale
+I’m a backend engineer passionate about designing **data-driven, distributed systems**. By leveraging modern frameworks, cloud-native platforms, and observability tooling, I build architectures that are maintainable, scalable and reliable.
 
-## tech & tools
+## What I'm Up To
+
+- 🧱 Architecting distributed microservices and event-driven systems for high-traffic platforms using Node.js, TypeScript, GraphQL, Apollo, Redis, and Pub/Sub messaging to ensure scalability and fault tolerance.
+
+- ⚡️ Optimizing API performance and throughput with PostgreSQL, Prisma ORM, caching strategies, and load balancing, reducing latency and improving system reliability.
+
+- ☁️ Designing and deploying cloud-native infrastructure with Docker, Kubernetes, and GCP, implementing automated CI/CD pipelines and observability tools like Prometheus and Grafana to enhance deployment efficiency and system visibility.
+
+## Tech & Tools
+**Languages**: TypeScript · JavaScript · Python · SQL
+
+**Backend & Frameworks**: Node.js · Express · GraphQL · Apollo · Next.js · React · Tailwind CSS
+
+**Databases & Data Tools**: PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
+
+**Cloud & DevOps**: Google Cloud Platform (GCP) · Docker · Kubernetes · Argo CD · CI/CD · Prometheus · Grafana
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,graphql,postgres,mongodb,apollo,prisma,bash,docker,redis,nextjs,react,js,tailwind&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,graphql,postgres,mongodb,apollo,prisma,bash,docker,redis,nextjs,react,js,kubernetes,grafana,prometheus,gcp&theme=dark&perline=8" />
   </a>
 </p>
 
-## what i'm up to
-
-- 🧱 building scalable systems & optimizing API performance as a **Backend Engineer**
-
-- 🌱 deepening expertise in **distributed systems and scalable architecture patterns**
-
-- 💬 **mentoring and speaking** to aspiring developers about breaking into tech with **BrainStation**
-
-
-## connect with me
+## Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/nick-abate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nick-abate/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nick-abate/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/nick-abate/" /></a>
 </p>
